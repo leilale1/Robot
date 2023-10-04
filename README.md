@@ -1,2 +1,2 @@
 # Robot
-[RobotFace](https://leilale1.github.io/RobotFace/)
+[RobotFace](https://leilale1.github.io/Robot/)
